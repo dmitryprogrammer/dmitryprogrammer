@@ -11,8 +11,12 @@ My competetions:
 <br />
 <br />
 TypeScript | Angular | RxJs | NgRx | Node
-
+<br />
+<br />
 In progress:
+<br />
+<br />
+
 1. Personal Web Site
 2. Open Source projects (will be listed here and on personal web site)
 3. Software Developer blog.
