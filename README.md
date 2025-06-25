@@ -1,5 +1,5 @@
 # Dmitry - Front End Developer
-[<img align="left" alt="dmitryprogrammer | Gmail" width="22px" src="https://raw.githubusercontent.com/dmitryprogrammer/dmitryprogrammer/main/_assets/mail-2.svg" />](mailto:dpischalka@gmail.com)
+[<img align="left" alt="dmitryprogrammer | Gmail" width="22px" src="https://raw.githubusercontent.com/dmitryprogrammer/dmitryprogrammer/main/_assets/mail.svg" />](mailto:dpischalka@gmail.com)
 [<img align="left" alt="dmitryprogrammer | LinkedIn" width="22px" src="https://raw.githubusercontent.com/dmitryprogrammer/dmitryprogrammer/main/_assets/linkedin.svg" />](https://www.linkedin.com/in/dmitryprogrammer/)
 [<img align="left" alt="dmitryprogrammer | Telegram" width="22px" src="https://raw.githubusercontent.com/dmitryprogrammer/dmitryprogrammer/main/_assets/telegram.svg" />](https://t.me/dmitryprogrammer)
 
